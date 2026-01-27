@@ -17,9 +17,12 @@ O diagrama abaixo ilustra a hierarquia de execução e decisão do banco de dado
 6. **DISTINCT:** Remoção de resultados duplicados.
 7. **SORTING (ORDER BY):** Organiza os dados (Ex: por tamanho ou ordem alfabética).
 8. **LIMIT:** Restringe a quantidade de linhas entregues.
-9. **RESULT:** Entrega final da query processada.
+9. **RESULT:** Entrega
+   
+   ![d896b987-c57c-438e-9dd4-4362457a7921](https://github.com/user-attachments/assets/5c0f1014-99eb-4549-ac3c-7a0f2b4ca52a)
+ final da query processada.
     
-![b430d590-3a23-4e5b-ab6d-7f0ca2abab0a](https://github.com/user-attachments/assets/e1ccf696-d433-42f6-89c4-2495817c8b49)
+
 
 ---
 
