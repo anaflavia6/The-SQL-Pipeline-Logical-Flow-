@@ -68,7 +68,7 @@ SELECT AVG(nota_entrada) AS media_geral
 FROM aluno;
 
 ```
-![d896b987-c57c-438e-9dd4-4362457a7921](https://github.com/user-attachments/assets/da3e4b7e-6c29-4358-bbff-3b6dc72da0c4)
+
 ---
 
 ## Review Checklist (Anti-Error)
@@ -79,5 +79,7 @@ FROM aluno;
 * **Alias:** Use `AS` para deixar os nomes das colunas de resultado claros.
 
 ---
+<img src="![d896b987-c57c-438e-9dd4-4362457a7921](https://github.com/user-attachments/assets/da3e4b7e-6c29-4358-bbff-3b6dc72da0c4)
+" width="600">
 
-**Deseja que eu te ajude a subir essa imagem para um serviço de hospedagem para que ela apareça direto no seu README?**
+
