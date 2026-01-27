@@ -1,11 +1,9 @@
 # The-SQL-Pipeline-Logical-Flow-
 Repositório dedicado à documentação de padrões avançados de consulta SQL, focando em filtragem de nivel mais alto, expressões regulares (Regex) e agregação de dados. O conteúdo foi consolidado através da resolução de desafios técnicos (HackerRank), cobrindo manipulação de strings e lógica de ordenação.
 
-# SQL — Advanced Selection & Filtering
+# MySQL 
 
 > Guia de referência para estruturação de queries intermediárias, consolidado a partir de desafios práticos (Datasets: STATION e ALUNO).
-
-## 📊 The SQL Pipeline (Logical Flow)
 
 O diagrama abaixo ilustra a hierarquia de execução e decisão do banco de dados.
 
