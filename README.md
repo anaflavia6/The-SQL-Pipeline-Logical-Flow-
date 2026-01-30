@@ -19,7 +19,9 @@ Diferente de linguagens imperativas, a ordem em que escrevemos o SQL não é a o
 |5º|**SELECT**|**Selection/Projection**|Seleciona as colunas e executa funções (`AVG`, `COUNT`).|
 |6º|**DISTINCT**|**Deduplication**|Remove resultados duplicados.|
 |7º|**ORDER BY**|**Sorting**|Organiza os dados (Crescente/Decrescente).|
-|8º|**LIMIT**|**Constraint**|Restringe a quantidade de linhas entregues.|
+|8º|**LIMIT**|**Constraint**|Restringe a quantidade de linhas entregues.
+
+
 ![b430d590-3a23-4e5b-ab6d-7f0ca2abab0a](https://github.com/user-attachments/assets/6c6abfea-1045-4c45-9d46-fb7d566ba00e)
 
 ---
